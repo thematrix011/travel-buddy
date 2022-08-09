@@ -1,0 +1,22 @@
+what is arrow function
+what is cors
+router and routes folder 
+const require thingy
+express.router
+module.exports = router ???
+mongoose
+express, async await in express
+app.use() ??
+req.body ??
+findOne method express
+why do i have to write react_app before a token name??
+css basics, but mainly flexbox and grid  . vvv imp
+css = {
+    justify content, width: max content, flex direction, border bottom, solid in borders, border-radius
+}
+axios basics
+<></> fragmentation
+map in react and js
+react = { usestate and useffect and useRef
+how to pass a usestate as prop to child component}
+timeago js
